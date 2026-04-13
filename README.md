@@ -187,7 +187,7 @@ to build scalable, secure, and user-friendly financial applications.
 
 ## 📬 Maintainer
 
-**Samuel Oluwadamilola Daniel** Frontend Engineer | Open Source Enthusiast
+**Samuel Daniel** Frontend Engineer | Open Source Enthusiast
 
 - GitHub: [https://github.com/DSOTec](https://github.com/DSOTec)
 - LinkedIn:
